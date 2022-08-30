@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[CI/CDo'h](/sample_page)
-<img src="images/cicdoh_project.jpg?raw=true"/>
+[CI/CDo'h (CTF)](/sample_page)
+<img src="images/cicdoh_project.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[AWS CDK ASG template (Python)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Simple Python Socket Listener (Python)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
