@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Latest 
 
 [CI/CDo'h (CTF)](/sample_page)
 <img src="images/cicdoh_project.png?raw=true"/>

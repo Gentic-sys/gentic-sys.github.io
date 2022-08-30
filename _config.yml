@@ -1,9 +1,9 @@
 title: Joshua Martin # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/hello.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Senior SRE Engineer 
   <br><br>
-  | AWS | DevSecOps | Python | AWS CDK |
+  | AWS CDK | DevSecOps | Python |
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
