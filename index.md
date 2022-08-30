@@ -9,11 +9,23 @@
 
 ---
 [AWS CDK ASG template (Python)](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/python.jpg?raw=true"/>
 
 ---
 [Simple Python Socket Listener (Python)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/python.jpg?raw=true"/>
+
+---
+
+---
+[Introduction to CI/CD (Gitlab)](http://example.com/)
+<img src="images/gitlab.jpg?raw=true"/>
+
+---
+
+---
+[Kali 2022.2 Whats New (Kali)](http://example.com/)
+<img src="images/kali.jpg?raw=true"/>
 
 ---
 
